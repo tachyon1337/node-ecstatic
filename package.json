@@ -4,9 +4,14 @@
   "description": "A simple static file server middleware that works with both Express and Flatiron",
   "version": "0.5.4",
   "homepage": "https://github.com/jesusabdullah/node-ecstatic",
+  "contributors": [
+        {
+            "name": "S. Francis"
+        }
+  ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:jesusabdullah/node-ecstatic.git"
+    "url": "git+https://github.com/tachyon1337/node-ecstatic.git"
   },
   "main": "./lib/ecstatic.js",
   "scripts": {
